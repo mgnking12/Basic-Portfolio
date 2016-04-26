@@ -1,0 +1,86 @@
+html {
+}
+body {
+	background-image: url(../images/ignasi_pattern_s.png);
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    width: auto;
+    height: 100%;
+    margin: 0 auto;
+    min-height: 100%;
+    position: relative;
+	}
+.full {
+	margin-bottom: 100px;
+
+}
+.photoMe {
+	height: 150px;
+	width: 250px;
+	margin: 15px 15px 10px 0;
+}
+.textMiddleStuff {
+	margin: 25px 15px 10px 0;
+}
+.myName {
+	background-color: #4EAAA4;
+	width: 250px;
+	display: inline-block;
+	text-align: center;
+	padding: 15px 0 15px 0;
+	margin: 0 0 -8px 10%;
+	color: #fff;
+}
+header{
+	background-color: #fff
+}
+nav {
+	display: inline-block;
+	float: right;
+	padding: 20px 0 0 0;
+	margin: 0 20% 0 0;
+	text-decoration: none;
+	color: #ccc;
+}
+.middleStuff {
+	width: 45%;
+	margin: 50px 0 50px 10%;
+	border: 2px solid #dddddd;
+	padding: 15px;
+	background-color: #fff;
+	
+}
+aside {
+	float: right;
+	clear: both;
+	margin: 0 20% 0 0;
+	border: 2px solid #dddddd;
+	padding: 10px 25px 25px 25px;
+	background-color: #fff;
+}
+.connectButtons {
+	margin: 20px 0 0 0;
+}
+.connectIcon {
+	margin: 0 5px 0 5px;
+}
+footer {
+	border-top: 3px solid #4EAAA4;
+	text-align: center;
+	padding: 25px;
+	background-color: #666666;
+}
+	.formStuff {
+		margin: 10px 0 10px 0;
+	}
+.message {
+	height: 100px;
+	width: 80%;
+}
+}
+.middleStuff h1, aside h3 {
+	color: #4EAAA4;
+}
+hr {
+	color:#dddddd; 
+	border-style: solid;
+}
