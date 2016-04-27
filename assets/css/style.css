@@ -40,7 +40,8 @@ body {
 	font-size: 28px;
 }
 header{
-	background-color: #fff
+	background-color: #fff;
+	font-family: 'Georgia', Times, Times New Roman, serif;
 }
 nav {
 	display: inline-block;
@@ -49,6 +50,7 @@ nav {
 	margin: 0 20% 0 0;
 	text-decoration: none;
 	color: #dddddd;
+	text-decoration-style: 
 }
 h1 {
 	font-size: 24px;
@@ -81,6 +83,13 @@ aside h3, .middleStuff h1 {
 }
 .connectIcon {
 	margin: 0 5px 0 5px;
+}
+.connectIcon:hover {
+	
+}
+.connectImage{
+	height: 50px;
+	width: 50px;
 }
 footer {
 	border-top: 3px solid #4EAAA4;
