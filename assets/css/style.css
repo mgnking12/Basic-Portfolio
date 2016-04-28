@@ -28,6 +28,7 @@ body {
 }
 .textMiddleStuff {
 	margin: 25px 15px 10px 0;
+	line-height: 150%;
 }
 .myName {
 	background-color: #4EAAA4;
