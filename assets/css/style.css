@@ -85,7 +85,8 @@ aside h3, .middleStuff h1 {
 	margin: 0 5px 0 5px;
 }
 .connectIcon:hover {
-	
+	border-bottom: 4px solid #4EAAA4;
+
 }
 .connectImage{
 	height: 50px;
